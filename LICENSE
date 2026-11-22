@@ -1,0 +1,15 @@
+GPL-3.0-or-later
+
+This repository is released under the GNU General Public License, version 3
+or any later version, except where a file or directory contains a different
+license or copyright notice.
+
+The project includes third-party STC32G144K and SEEKFREE/逐飞 source files.
+Those files retain their original copyright and license notices. You must
+preserve those notices when redistributing or modifying the corresponding
+files.
+
+The complete GNU General Public License version 3 text is available from:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+SPDX-License-Identifier: GPL-3.0-or-later

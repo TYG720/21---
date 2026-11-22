@@ -1,0 +1,33 @@
+# Keil/C251 generated build outputs
+project/mdk/out_file/
+project/mdk/*.crf
+project/mdk/*.d
+project/mdk/*.dep
+project/mdk/*.htm
+project/mdk/*.lnp
+project/mdk/*.map
+project/mdk/*.obj
+project/mdk/*.sct
+project/mdk/*.tra
+project/mdk/*.lst
+project/mdk/*.hex
+project/mdk/*.axf
+
+# Keil local workspace and user interface state
+project/mdk/*.uvopt
+project/mdk/*.uvgui.*
+
+# Logs, temporary files, and editor metadata
+*.log
+*.bak
+*.tmp
+.vs/
+.vscode/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+# Local agent metadata
+.superpowers/
+docs/superpowers/
+写给你的.txt
